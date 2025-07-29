@@ -11,14 +11,23 @@ Aqui você vai encontrar várias pastas, cada uma com exercícios ou projetos de
 A estrutura é mais ou menos assim:
 ---
 ├── Módulo 1/
+
 │   └── (seus arquivos do Módulo 1)
+
 ├── Módulo 2/
+
 │   ├── ArquivosTESTES/
+
 │   │   ├── pesquisa/ (arquivos de dados para testes: .xlsx, .json, .txt, .csv)
+
 │   │   └── brincadeiras/ (scripts Python para dados, NumPy, DataFrames)
+
 │   ├── DesafioModulo2/ (solução do desafio do Módulo 2)
+
 │   └── Ordenação de dados/ (scripts para ordenar dados e fazer gráficos)
+
 └── (outras pastas ou arquivos do seu projeto)
+
 
 
 ## ✨ Tecnologias Usadas
